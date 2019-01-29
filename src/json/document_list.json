@@ -1,0 +1,72 @@
+[
+	{
+		"category":"Extensive Reading",
+		"content":[
+			{
+				"file_name":"Hints on Writing Technical Papers and Making Presentations",
+				"file_path":"src/document/Hints on Writing Technical Papers and Making Presentations.pdf"
+			},
+			{
+				"file_name":"How to Write an Abstract",
+				"file_path":"src/document/How to Write an Abstract.htm"
+			},
+			{
+				"file_name":"Efficient Reading of Papers in Science and Technology",
+				"file_path":"src/document/Efficient Reading.pdf"
+			},
+			{
+				"file_name":"Information for IEEE Transactions, Journals, and Letters Authors",
+				"file_path":"src/document/IEEE Information for Author.pdf"
+			},
+			{
+				"file_name":"國立交通大學資訊工程學系 A級期刊列表 Journal A List (2018.10.03 Updated)",
+				"file_path":"src/document/journal_A_20181003Updated.xlsx"
+			},
+			{
+				"file_name":"國立交通大學資訊工程學系 B級期刊列表 Journal B List (2018.10.03 Updated)",
+				"file_path":"src/document/journal_B_20181003Updated.xlsx"
+			},
+			{
+				"file_name":"國立交通大學資訊工程學系 會議論文列表 Top Conference List (2018.09.14 Updated)",
+				"file_path":"src/document/Top-conf-List-20180914.xls"
+			},
+			{
+				"file_name":"論文準備應注意事項",
+				"file_path":"src/document/論文準備應注意事項.doc"
+			},
+			{
+				"file_name":"107學年度 雲霧計算與大數據分析 課程綱要",
+				"file_path":"src/document/1071_Cloud Fog Computing_syllabus.docx"
+			}
+		]
+	},
+	{
+		"category":"Sample Documents",
+		"content":[
+			{
+				"file_name":"Weekly report sample file",
+				"file_path":"src/document/Weekly report sample file.doc"
+			},
+			{
+				"file_name":"Presentation slides sample file v.2018",
+				"file_path":"src/document/Presentation slides sample file 2018.pptx"
+			},
+			{
+				"file_name":"Single-column article sample file",
+				"file_path":"src/document/Single-column sample file.docx"
+			},
+			{
+				"file_name":"Two-column article sample file (conference version)",
+				"file_path":"src/document/wo-column sample file (conference version).doc"
+			},
+			{
+				"file_name":"Two-column article sample file (journal version)",
+				"file_path":"src/document/Two-column sample file (journal version).doc"
+			},
+			{
+				"file_name":"Two-column article sample file (journal version) (new)",
+				"file_path":"src/document/Two-column sample file (journal version)(new).doc"
+			}
+		]
+	}
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "n_th": 107,
+    "members": [
+      {
+        "name": "麥佩琦",
+        "name_en": "Pei-Chi Mai",
+        "avatar": "img/members/107th/麥佩琦.jpg",
+        "mail": "sunnyday988988@gmail.com",
+        "intro": "I received Bachelor Degree in Interdisciplinary Program of Engineering from National Tsing Hua University. To learn the depth and breadth of knowledge, MLB in Chiao Tung University is a favorable learning environment. Our research includes Software Defined Networking and Edge Computing."
+      },
+      {
+        "name": "黃元瑞",
+        "name_en": "Yuan-Ruei Huang",
+        "avatar": "img/members/107th/黃元瑞.jpg",
+        "mail": "huangyuanruei@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science and information engineering from National Central University in Zhongli, Taiwan in 2018. His goals to be an M.S student in the Department of Computer Science, National Chiao Tung University are to exposed himself to practical project and implementation. His research interest targets on Software Defined Networking."
+      },
+      {
+        "name": "繆穩慶",
+        "name_en": "Wen-Ching Miao",
+        "avatar": "img/members/107th/繆穩慶.jpg",
+        "mail": "mm0503885@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science from National Chiao Tung University in Hsinchu, Taiwan in 2018,he is familiar with some high-level programming language such as C/C++,and also has the experience of FPGA and Verilog.His research interest includes maching learning and wireless network."
+      },
+      {
+        "name": "張家銘",
+        "name_en": "Chia-Ming Chang",
+        "avatar": "img/members/107th/張家銘.jpg",
+        "mail": "vincent191228@gmail.com",
+        "intro": "Received Bachelor’s Degree in the Department of Biomedical Engineering and Environment Science, National Tsing Hua University in 2017. Had once been a research assistant of a deep learning project in Yang Ming University before entered here. Having good code skills and computer science knowledge as same as a CS student is my goal before graduating from here."
+      },
+      {
+        "name": "Agung Tri Arta Hariyanto",
+        "name_en": "盧成江",
+        "avatar": "img/members/107th/ATA.jpg",
+        "mail": "agung.triarta.h@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Informatics Engineering from Petra Christian University in Surabaya, Indonesia in 2017, and has working experience in IT project implementation especially in android at Indonesia. His goals to be an M.S student in the Department of Computer Science, National Chiao Tung University are to broaden knowledge and to support working experience. His research interest includes Software Defined Networking, Fog computing, IoT."
+      },
+      {
+        "name": "Monika kardile",
+        "name_en": "",
+        "avatar": "img/members/107th/Monika.jpg",
+        "mail": "monikakardile@gmail.com",
+        "intro": "Monika obtained Bachelor Degree in Computer Engineering from the Zeal College of Engineering and Research, which is under the affiliation of Pune University, Maharashtra, India in July 2017. She enrolled to study M.S in EECS department at National Chiao Tung University in February 2018. Her goal is found computer software application in medical fields. Her research interest focuses on Big Data Analytics."
+      },
+      {
+        "name": "陳學穎",
+        "name_en": "Syue-Ying Chen",
+        "avatar": "img/members/107th/陳學穎.jpg",
+        "mail": "u9810216@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Applied Mathematics from National HsinChu University of Education, Taiwan in 2013, and has 2 years and half working experience as a quality assurance engineer in R&D sector in one multinational networking device manufacturing company. What about his motivations and goals are to learn and reinforce his theoretical methodology and practical research implementation and eventually, lead to have enough capabilities to solve problems logically and creatively no matter cooperate as a team or conduct independently as an individual through the essential master program in NCTU."
+      }
+    ]
+  }
+]

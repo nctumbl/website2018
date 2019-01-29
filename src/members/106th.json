@@ -1,0 +1,42 @@
+[
+  {
+    "n_th": 106,
+    "members": [
+      {
+        "name": "吳永全",
+        "name_en": "Yung-Chaun Wu",
+        "avatar": "img/members/106th/吳永全.jpg",
+        "mail": "mayday5609@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Industrial and Information Management from National Cheng Kung University in Tainan, Taiwan in 2017, and has working experience in IT project implementation for industry. His goals to be an M.S student in the Department of Computer Science, National Chiao Tung University are to broaden knowledge and to support working experience. His research interest includes mmWave and LWA."
+      },
+      {
+        "name": "吳宇軒",
+        "name_en": "Yu-Hsuan Wu",
+        "avatar": "img/members/106th/吳宇軒.jpg",
+        "mail": "j6m3vm055@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science from National Chiao Tung University in Hsinchu, Taiwan in 2017, and has working experience in IT project implementation for industry. His goals to be an M.S student in the Department of Computer Science, National Chiao Tung University are to broaden knowledge and to support working experience. His research interest includes Software Defined Networking."
+      },
+      {
+        "name": "陳玟伶",
+        "name_en": "Wen-Ling Chen",
+        "avatar": "img/members/106th/陳玟伶.jpg",
+        "mail": "kuragechan14@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science from National Chi Nan University in Nantou, Taiwan in 2017, and has working experience in IT project implementation for industry. Her goals to be an M.S student in the Department of Computer Science, National Chiao Tung University are to broaden knowledge and to support working experience. Her research interest includes Software Defined Networking and Data Mining."
+      },
+      {
+        "name": "鄭淳丰",
+        "name_en": "Chun-Feng Zheng",
+        "avatar": "img/members/106th/鄭淳丰.jpg",
+        "mail": "s90412test@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science from National Taipei University of Technology in 2017, and has working experience in IT project implementation for industry. His goals to be an M.S student in the Department of Computer Science, National Chiao Tung University are to broaden knowledge and to support working experience. His research interest includes Software Defined Networking."
+      },
+      {
+        "name": "李柏翰",
+        "name_en": "Bo-Han Li",
+        "avatar": "img/members/106th/李柏翰.jpg",
+        "mail": "address211@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Applied Mathematics from National Tsing Hua University in Hsinchu, Taiwan in 2014, and has working experience in IT project implementation for industry. His goals to be an M.S student in the Department of Computer Science, National Chiao Tung University are to broaden knowledge and to support working experience. His research interest includes Software Defined Networking."
+      }
+    ]
+  }
+]

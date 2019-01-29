@@ -1,0 +1,42 @@
+[
+  {
+    "n_th": 104,
+    "members": [
+      {
+        "name": "鄧國清",
+        "name_en": "Guo-Cin Deng",
+        "avatar": "img/members/104th/Guo-Cin.jpg",
+        "mail": "ericg526652@gmail.com",
+        "intro": "Received the B.S. degree in the Department of Electronic and Computer Engineering from the National Taiwan University of Science and Technology in 2015. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest includes Software-Defined Networking."
+      },
+      {
+        "name": "林承旭",
+        "name_en": "Ceng-Hsu Lin",
+        "avatar": "img/members/104th/Cheng-Hsu.jpg",
+        "mail": "mailto:ericg526652@gmail.com",
+        "intro": "Received the B.S. degree in the Department of Applied Math from the National Chung Hsing University in 2015. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest is Software-Defined Networking."
+      },
+      {
+        "name": "沈士閔",
+        "name_en": "Shi-Min Shen",
+        "avatar": "img/members/104th/Shi-Min.jpg",
+        "mail": "thanatos1710@gmail.com",
+        "intro": "Received the B.S. degree in the Department of Computer Science and Information Engineering from the National Cheng Kung University, Tainan, Taiwan, in 2014. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest is Software-Defined Networking."
+      },
+      {
+        "name": "鄭道",
+        "name_en": "Tao Cheng",
+        "avatar": "img/members/104th/Tao-Cheng.jpg",
+        "mail": "kevin8293330@yahoo.com.tw",
+        "intro": "Received the B.S. degree in the Department of Electric Engineering from the National Chiao Tung University in 2015. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest is Software-Defined Networking."
+      },
+      {
+        "name": "謝曉湖",
+        "name_en": "Hsiao-Hu Hsieh",
+        "avatar": "img/members/104th/Hsiao-Hu.jpg",
+        "mail": "sylphis00522@gmail.com",
+        "intro": "Received the B.S. degree in the Department of Computer Science and Information Engineering from the National Chung Hsing University, Taichung, Taiwan, in 2014. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest is Software-Defined Networking."
+      }
+    ]
+  }
+]

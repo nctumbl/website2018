@@ -1,0 +1,70 @@
+[
+  {
+    "n_th": 103,
+    "members": [
+      {
+        "name": "楊采薇",
+        "name_en": "Tsai-Wei Yang",
+        "avatar": "img/members/103th/Tsai-Wei Yang.jpg",
+        "mail": "khalililoveu@gmail.com",
+        "intro":"Received the B.S. degree in the Department of Computer Science and Engineering from the Yuan Ze University in 2014. She is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. Her research interest includes Software-Defined Networking."
+      },
+      {
+        "name": "陳彥廷",
+        "name_en": "Yan-Ting Chen",
+        "avatar": "img/members/103th/Yan-Ting Chen.jpg",
+        "mail": "protoss914@gmail.com",
+        "intro":"Received the B.S. degree in the Department of Computer Science and Information Engineering from the National Cheng Kung University, Tainan, Taiwan, in 2014. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest is Software-Defined Networking."
+      },
+      {
+        "name": "趙梓佑",
+        "name_en": "Tzu-Yu Chao",
+        "avatar": "img/members/103th/Tzu-Yu Chao.jpg",
+        "mail": "chao.tzu.yu@gmail.com",
+        "intro":"Received the B.S. degree in the Department of Electrical Engineering from the National Taiwan University of Science and Technology, Taipei, Taiwan, in 2013. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest is Software Defined Network."
+      },
+      {
+        "name": "林建弘",
+        "name_en": "Chien-Hung Lin",
+        "avatar": "img/members/103th/Chien-Hung Lin.jpg",
+        "mail": "enigma1198@hotmail.com",
+        "intro":"Received the B.S. degree in the Department of Computer Science from the National Chaio Yung University in 2014. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest includes Software-Defined Networking."
+      },
+      {
+        "name": "陳冠融",
+        "name_en": "Guan-Rong Chen",
+        "avatar": "img/members/103th/Guan-Rong Chen.jpg",
+        "mail": "fright29@gmail.com",
+        "intro":"Received the B.S. degree in the Department of Computer Science and Information Engineering from the TamKang University, Taipei, Taiwan, in 2014. He is currently an M.S. student in the Department of Computer Science, National Chiao Tung University. His research interest is Software-Defined Networking."
+      },
+      {
+        "name": "Rashmi Rani",
+        "name_en": "",
+        "avatar": "img/members/103th/Rashmi.jpg",
+        "mail": "enigma1198@hotmail.com",
+        "intro":"Received the B.C.A (Bachelor of Computer Applications ) from Babasaheb Bhimrao Ambedkar Bihar University (popularly known as B. R. Ambedkar Bihar University),Bihar , India in 2012. She is currently a master student in the Department of Electrical Engineering and Computer Science (EECS), National Chiao Tung University. Her research interests include Big data and Cloud computing."
+      },
+      {
+        "name": "Arrad Iskandar",
+        "name_en": "",
+        "avatar": "img/members/103th/Arrad.jpg",
+        "mail": "arrad.iskandar@gmail.com",
+        "intro":"Received Bachelor Degree in the Department of Electrical Engineering from Syiah Kuala University in Banda Aceh, Indonesia, in 2010, and has seven years working experience with the government of Aceh. He is currently an M.S student in the Department of Computer Science, National Chiao Tung University. His research interest includes Network Function Virtualization."
+      },
+      {
+        "name": "Cheng Chiu",
+        "name_en": "",
+        "avatar": "img/members/103th/Cheng Chiu.jpg",
+        "mail": "moi326681@gmail.com",
+        "intro":"Received the B.S. degree in the Department of Electronic Engineering from the Southern Taiwan University of Science and Technology in 2012. He is currently an M.S. student in the institute of Mathematical Modeling and Scientific Computing, National Chiao Tung University. He research interest includes Software-Defined Networking."
+      },
+      {
+        "name": "Sharath Kumar",
+        "name_en": "",
+        "avatar": "",
+        "mail": "sharu.amc@gmail.com",
+        "intro":"Received B.E (Bachelor of Engineering) in Computer Science from Visvesvaraya Technological University (VTU) Bengaluru, India, in 2010. He is currently a M.S student in the Department of Computer Science, National Chiao Tung University. His research interests includes Cloud computing and analysis of Big data."
+      }
+    ]
+  }
+]
