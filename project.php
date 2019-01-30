@@ -129,19 +129,27 @@
 					{
 						echo '<div class="panel panel-default">';
 						echo '<div class="panel-body">';
-						echo '<div class="row project-table-element">';
+						//echo '<div class="row project-table-element">';
 						if ($project['name'] !== "")
 						{
+							echo '<div class="row project-table-element">';
 							echo '<div class="col-sm-2"><strong>名稱</strong></div>';
 							echo '<div class="col-sm-10 text-left">'.$project['name'].'</div>';
+							echo '</div>';	//end of row
 						}
 						if ($project['id'] !== "")
 						{
+							echo '<div class="row project-table-element">';
 							echo '<div class="col-sm-2"><strong>編號</strong></div>';
 							echo '<div class="col-sm-10 text-left">'.$project['id'].'</div>';
+							echo '</div>';	//end of row
 						}
+						echo '<div class="row project-table-element">';
 						echo '<div class="col-sm-2"><strong>執行期限</strong></div>';
 						echo '<div class="col-sm-10 text-left">'.$project['duration'].'</div>';
+						echo '</div>';	//end of row
+
+						echo '<div class="row project-table-element">';
 						echo '<div class="col-sm-2"><strong>補助單位</strong></div>';
 						echo '<div class="col-sm-10 text-left">'.$project['supporter'].'</div>';
 						echo '</div>';	//end of row
