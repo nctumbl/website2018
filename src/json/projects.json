@@ -9,16 +9,10 @@
         "supporter":"Ministry of Science and Technology (科技部)"
       },
       {
-        "name": "",
-        "id": "101C179",
-        "duration": "August 1, 2015 - July 31, 2016",
-        "supporter": "英業達股份有限公司"
-      },
-      {
-        "name": "前瞻技術產學合作計畫－基於SDN和Cloud架構之無線/寬網技術與服務",
-        "id": "103C138",
-        "duration": "August 1, 2014 - July 31, 2017",
-        "supporter": "思銳科技股份有限公司"
+        "name":"軟體定義系統之關鍵技術研究及其在物聯網的應用－總計畫暨子計畫一：基於軟體定義之節能資料管理機制應用於多租戶物聯網資料中心(3/3)",
+        "id":"105-2221-E-002-119-MY3",
+        "duration":"August 1, 2016 - July 31, 2019",
+        "supporter":"Ministry of Science and Technology (科技部)"
       }
     ]
   },
@@ -290,8 +284,20 @@
         "supporter": "英業達股份有限公司"
       },
       {
-        "name": "前瞻技術產學合作計畫－基於SDN和Cloud架構之無線/寬網技術與服務",
-        "id": "103C138",
+        "name": "基於SDN和Cloud架構之無線/寬網技術與服務(II)",
+        "id": "104-2622-8-009-001-",
+        "duration": "August 1, 2015 - July 31, 2016",
+        "supporter": "Ministry of Science and Technology (科技部)"
+      },
+      {
+        "name": "前瞻技術產學合作計畫－基於SDN和Cloud架構之無線/寬網技術與服務(III)",
+        "id": "105-2622-8-009-008-",
+        "duration": "August 1, 2016 - July 31, 2017",
+        "supporter": "Ministry of Science and Technology (科技部)"
+      },
+      {
+        "name": "SDN 多控制器",
+        "id": "101C179",
         "duration": "August 1, 2014 - July 31, 2017",
         "supporter": "思銳科技股份有限公司"
       }
