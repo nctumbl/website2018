@@ -109,6 +109,7 @@
 		  	<li class="active"><a data-toggle="tab" href="#project_current">目前研究</a></li>
 		  	<li><a data-toggle="tab" href="#project_finished">已完成</a></li>
 		  	<li><a data-toggle="tab" href="#paper">期刊論文</a></li>
+		  	<li><a data-toggle="tab" href="#conference">研討會論文</a></li>
 		  	<li><a data-toggle="tab" href="#book">專書及專書論文</a></li>
 		  	<li><a data-toggle="tab" href="#patent">專利</a></li>
 		</ul>
@@ -170,10 +171,13 @@
 						case 0:	//conference
 							echo '<div id="paper" class="tab-pane fade">';
 							break;
-						case 1:	//book
+						case 1:	//conference
+							echo '<div id="conference" class="tab-pane fade">';
+							break;
+						case 2:	//book
 							echo '<div id="book" class="tab-pane fade">';
 							break;
-						case 2:	//patent
+						case 3:	//patent
 							echo '<div id="patent" class="tab-pane fade">';
 							break;
 					}
