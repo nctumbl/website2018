@@ -1,0 +1,21 @@
+[
+  {
+    "n_th": 108,
+    "members": [
+      {
+        "name": "林秉翰",
+        "name_en": "Ping-Han Lin",
+        "avatar": "img/members/108th/林秉翰.jpg",
+        "mail": "zxcvbnm497111@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science and Engineering from National Sun Yat-sen University in Kaohsiung, Taiwan in 2019. He is familiar with C/C++ and Java coding and hopes to learn some professional technique in MBL. His research interest in network programming and IoT."
+      },
+	  {
+        "name": "陳奕遠",
+        "name_en": "Yi-Yuan Chen",
+        "avatar": "img/members/108th/陳奕遠.jpg",
+        "mail": "q890003@gmail.com",
+        "intro": "Received Bachelor’s Degree in the Department of Electrical Engineering from National University of Kaohsiung in 2016. He is currently studying for a Master's degree in the Department of Computer Science, National Chiao Tung University. His goals is to expose himself to practical project and implementation and have adequate computer science knowledge before graduated."
+      }
+    ]
+  }
+]
