@@ -22,6 +22,13 @@
         "avatar": "img/members/108th/黃柏豪.jpg",
         "mail": "z3588191@gmail.com",
         "intro": "Received Bachelor Degree in the Department of Computer Science from National Chiao Tung University in Hsinchu, Taiwan in 2019,he is familiar with programming language such as C/C++,and also has the experience of IoT and VR.His research interest targets on Machine Learning algorithm and implement."
+      },
+	  {
+        "name": "阮建元",
+        "name_en": "Jian-Yuan Ruan",
+        "avatar": "img/members/108th/阮建元.jpg",
+        "mail": "kevinian320@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science and Engineering from National Taiwan Ocean University in Keelung ,Taiwan in 2018. His goals are to learn advanced techniques and refine his programming skills on practical project,implementation. His research interest in Software Defined Networking and Machine learning."
       }
     ]
   }
