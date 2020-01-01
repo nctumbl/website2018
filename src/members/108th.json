@@ -15,6 +15,13 @@
         "avatar": "img/members/108th/陳奕遠.jpg",
         "mail": "q890003@gmail.com",
         "intro": "Received Bachelor’s Degree in the Department of Electrical Engineering from National University of Kaohsiung in 2016. He is currently studying for a Master's degree in the Department of Computer Science, National Chiao Tung University. His goals is to expose himself to practical project and implementation and have adequate computer science knowledge before graduated."
+      },
+	  {
+        "name": "黃柏豪",
+        "name_en": "Bo-Hao Huang",
+        "avatar": "img/members/108th/黃柏豪.jpg",
+        "mail": "z3588191@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science from National Chiao Tung University in Hsinchu, Taiwan in 2019,he is familiar with programming language such as C/C++,and also has the experience of IoT and VR.His research interest targets on Machine Learning algorithm and implement."
       }
     ]
   }
