@@ -1,0 +1,28 @@
+[
+  {
+    "n_th": 109,
+    "members": [
+      {
+        "name": "張哲魁",
+        "name_en": "Che-Kuei Chang",
+        "avatar": "img/members/109th/張哲魁.jpg",
+        "mail": "joe424joe1113@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science and information engineering from National Central University in Zhongli, Taiwan in 2019, familiar using C++ and Python for coding. Hope for improving the practical implementation ability and sharpen the language coding skills. Research interest targets on machine learning and deep learning."
+      },
+	  {
+        "name": "張立欣",
+        "name_en": "Yi-Yuan Chen",
+        "avatar": "img/members/109th/張立欣.jpg",
+        "mail": "kirito1219@hotmail.com",
+        "intro": "Received Bachelor Degree in the Department of Mathematics from National Central University in Zhongli, Taiwan in 2019.He is familiar with some high-level programming language such as C/C++,his research interest targets on machine learning."
+      },
+	  {
+        "name": "黃品瑄",
+        "name_en": "Pin-Xuan Huang",
+        "avatar": "img/members/109th/黃品瑄.jpg",
+        "mail": "wendy020@gmail.com",
+        "intro": "Received Bachelor Degree in the Department of Computer Science from National Taipei University of Education in Taipei ,Taiwan in 2020. Her goals are to learn advanced techniques. Her research interest in Machine learning."
+      }
+    ]
+  }
+]

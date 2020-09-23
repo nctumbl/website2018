@@ -143,14 +143,15 @@
 		  		<a class="dropdown-toggle" data-toggle="dropdown" href="#">Current Members 目前成員
 		  		<span class="caret"></span></a>
 		  		<ul class="dropdown-menu">
-			      	<li class="active"><a data-toggle="tab" href="#107th">碩二 107 th</a></li>
-			      	<li><a data-toggle="tab" href="#108th">碩一 108 th</a></li>
+			      	<li class="active"><a data-toggle="tab" href="#108th">碩二 108 th</a></li>
+			      	<li><a data-toggle="tab" href="#109th">碩一 109 th</a></li>
 			    </ul>
 			</li>
 		  	<li class="dropdown">
 			    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Graduated 已畢業
 			    <span class="caret"></span></a>
 			    <ul class="dropdown-menu">
+					<li><a data-toggle="tab" href="#107th">107 th</a></li>
 					<li><a data-toggle="tab" href="#106th">106 th</a></li>
 			      	<li><a data-toggle="tab" href="#105th">105 th</a></li>
 			      	<li><a data-toggle="tab" href="#104th">104 th</a></li>
@@ -163,10 +164,10 @@
 		</ul>
 		<div class="tab-content">
 			<?php
-				$n_ths=array("108th","107th","106th","105th","104th","103th","in_service","phd");
+				$n_ths=array("109th","108th","107th","106th","105th","104th","103th","in_service","phd");
 				foreach ($n_ths as $n_th)
 				{
-					if ($n_th == "107th" || $n_th == "108th")
+					if ($n_th == "109th" || $n_th == "108th")
 						echo '<div id="'.$n_th.'" class="tab-pane fade in active">';
 					else
 						echo '<div id="'.$n_th.'" class="tab-pane fade">';
