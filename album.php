@@ -102,7 +102,7 @@
 		<div class="row">
 		<?php
 			$dir="img/lifephotos/";
-			$n_ths=array("2018_106_107","2017_105_106");
+			$n_ths=array("2018_106_107","2017_105_106", "2019_107_108", "2020_108_109");
 			foreach($n_ths as $n_th)
 			{
 				if (is_dir($dir.$n_th)){
@@ -134,7 +134,7 @@
 	 	<a class="up-arrow" href="#" data-toggle="tooltip" title="TO TOP">
 	    	<span class="glyphicon glyphicon-chevron-up"></span>
 		</a><br><br>
-	 	<p>Copyright © 2018 MBL All Rights Reserved.</p>
+	 	<p>Copyright © 2020 MBL All Rights Reserved.</p>
 	 	<p>國立交通大學 資訊工程系 行動計算與寬頻網路實驗室 工程三館612室</p>
 	 	<p>電話: (03)5712121 分機: 54790 </p>
 	</footer>
